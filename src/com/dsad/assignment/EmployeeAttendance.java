@@ -31,7 +31,7 @@ public class EmployeeAttendance {
                     }*/
 			eb.printRedBlackTree(root);
 			eb.printRedBlackTreeCount(root);
-			eb.printRoot(root);
+			//eb.printRoot(root);
 		}
 		catch (FileNotFoundException e){
 			e.printStackTrace();
